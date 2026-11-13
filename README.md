@@ -22,6 +22,7 @@ resolvem problemas reais, de ponta a ponta: do banco de dados à interface, com 
 <details>
 <summary><b>Outros projetos</b></summary>
 
+- [**NemyCookies**](https://github.com/neemiasjls/NemyCookies-public): site de pedidos e painel de gestão de um delivery de cookies, em uso no negócio (fiado, estoque, produção, custos e fidelidade). React · TypeScript · Supabase
 - [**Payment API**](https://github.com/neemiasjls/payment-api): gateway de pagamentos em sandbox (autorização, captura, estorno) com Stripe Test Mode. C# · .NET
 - [**SmartKey**](https://github.com/neemiasjls/SmartKey-API): chave digital temporária para hospedagens com assinatura ECDSA. Java
 - [**Nemus**](https://github.com/neemiasjls/Nemus): finanças pessoais com partidas dobradas e orçamento por envelope. C# · React
