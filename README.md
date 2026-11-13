@@ -15,7 +15,7 @@ resolvem problemas reais, de ponta a ponta: do banco de dados à interface, com 
 |---|---|---|
 | [**DevConductor**](https://github.com/neemiasjls/DevConductor-public) | Kit multiagente para desenvolver com IA: agentes por função, roteamento de modelo, memória e verificação de segurança de skills. Mais de 300 testes no GitHub Actions (Linux e Windows). | JavaScript · Node · Claude Code |
 | [**Sistema de Gestão**](https://github.com/neemiasjls/Sistema-de-Gestao-public) | Sistema de uma transportadora, em uso na empresa: fretes, viagens, estoque, financeiro e painel do motorista. Vitrine com dados fictícios. | .NET 8 · React · TypeScript · PostgreSQL |
-| **Connect Gamers** | Rede social gamer com moderação de conteúdo pela API da OpenAI. Vencedor na turma do desafio Palo Alto \| Microsoft (FIAP). | React · Node · OpenAI API |
+| [**Connect Gamers**](https://github.com/mariialbano/Connect_Gamers_React) | Rede social gamer com moderação de conteúdo pela API da OpenAI, feita em equipe (sou o maior contribuidor). Vencedor na turma do desafio Palo Alto | Microsoft (FIAP). |\| Microsoft (FIAP). | React · Node · OpenAI API |
 | [**Gesture Switch**](https://github.com/neemiasjls/gesture-switch) | Liga e desliga a luz da sala com gestos na webcam, com visão computacional e SmartThings. | Java · Python · OpenCV · MediaPipe |
 | [**ReconForge**](https://github.com/neemiasjls/ReconForge) | Automatiza o reconhecimento em pentest autorizado (whois, DNS, Nmap, SMB) e gera um resumo em português. | Python · Nmap |
 
