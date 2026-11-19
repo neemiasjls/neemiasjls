@@ -28,7 +28,7 @@ rotina da empresa.
   negócio.
 - **Leitura e geração de documentos:** XML de notas fiscais, PDF, planilhas e OCR; geração de `.xlsx` a
   partir de modelos.
-- **Dados** em PostgreSQL com EF Core; site na Cloudflare Pages, API em Docker na Render e publicação
+- **Dados** em PostgreSQL com EF Core; site em CDN, API em contêiner Docker e publicação
   automática a cada envio.
 
 `C#` `.NET 8` `React` `TypeScript` `PostgreSQL` `Docker`
