@@ -1,6 +1,6 @@
 ## Projetos
 
-### [DevConductor](https://github.com/neemiasjls/DevConductor-public)
+### [DevConductor](https://github.com/neemiasjls/devconductor-showcase)
 
 Kit de plugins para o Claude Code que organiza o desenvolvimento com agentes de IA: decide **quem faz cada
 tarefa, com qual modelo e com quais instruções**. Reúne skills e agentes abertos da comunidade (com origem e
@@ -17,10 +17,10 @@ licença de cada arquivo registradas) e acrescenta uma camada própria:
 
 `JavaScript` `Node.js` `Claude Code` `GitHub Actions`
 
-### [Sistema de Gestão](https://github.com/neemiasjls/Sistema-de-Gestao-public)
+### [Sistema de Gestão](https://github.com/neemiasjls/sistema-de-gestao-showcase)
 
 Sistema web de gestão operacional e financeira de uma transportadora, desenvolvido por mim e em uso na
-rotina da empresa. A vitrine pública usa dados fictícios.
+rotina da empresa.
 
 - **Frontend** em React + TypeScript, instalável como PWA, com sessão e rotas por perfil (administrador e
   motorista).
@@ -78,12 +78,12 @@ chatbot com a API do Gemini e trilha de auditoria encadeada por hash.
 <details>
 <summary><b>Outros projetos</b></summary>
 
-- [**NemyCookies**](https://github.com/neemiasjls/NemyCookies-public): site de pedidos e painel de gestão de um delivery de cookies, em uso no negócio (fiado, estoque, produção, custos e fidelidade). React · TypeScript · Supabase
+- [**NemyCookies**](https://github.com/neemiasjls/nemycookies-showcase): site de pedidos e painel de gestão de um delivery de cookies, em uso no negócio (fiado, estoque, produção, custos e fidelidade). React · TypeScript · Supabase
 - [**Payment API**](https://github.com/neemiasjls/payment-api): gateway de pagamentos em sandbox (autorização, captura, estorno) com Stripe Test Mode. C# · .NET
 - [**SmartKey**](https://github.com/neemiasjls/SmartKey-API): chave digital temporária para hospedagens com assinatura ECDSA, válida só durante a estadia. Java
 - [**Nemus**](https://github.com/neemiasjls/Nemus): finanças pessoais com partidas dobradas, orçamento por envelope e parcelamento de cartão. C# · React
-- [**QR Code Manager**](https://github.com/neemiasjls/qrcode-manager-public): QR codes dinâmicos com painel, lotes e estatísticas. Next.js · Postgres
-- [**Agenda**](https://github.com/neemiasjls/Agenda-public): agenda, clientes, financeiro e portal de agendamento para profissional autônoma. JavaScript · Cloudflare Workers · Supabase
+- [**QR Code Manager**](https://github.com/neemiasjls/qrcode-manager-showcase): QR codes dinâmicos com painel, lotes e estatísticas. Next.js · Postgres
+- [**Agenda**](https://github.com/neemiasjls/agenda-showcase): agenda, clientes, financeiro e portal de agendamento para profissional autônoma. JavaScript · Cloudflare Workers · Supabase
 - [**Supermarket Delivery**](https://github.com/neemiasjls/SuperMarketDelivery): delivery de supermercado full-stack com catálogo, carrinho e login JWT. TypeScript
 
 </details>
