@@ -1,3 +1,25 @@
+# Oi, eu sou o Neemias 👋
+
+**Estudante de Sistemas de Informação na FIAP · IA aplicada ao desenvolvimento de software · Segurança**
+
+Gosto de construir software que alguém usa de verdade. Trabalho no escritório de uma transportadora e, vendo a
+rotina presa em dezenas de planilhas, desenvolvi o sistema de gestão que hoje a empresa usa todo dia. Os outros
+projetos daqui também nasceram de problemas reais: um delivery de cookies, a agenda de uma profissional autônoma,
+plaquinhas com QR code.
+
+Hoje meu foco é usar IA para desenvolver melhor: organizo agentes que planejam, implementam, revisam e testam
+código, escolhendo o modelo certo para cada tarefa. Em paralelo, estudo segurança ofensiva no curso de Pentest da
+Desec.
+
+- 🔭 Construindo o **DevConductor**, um kit de agentes de IA para desenvolvimento de software
+- 🌱 Aprofundando em **agentes e integração de LLMs**, **.NET** e **pentest**
+- 🏆 Vencedor na turma do **Palo Alto | Microsoft Game Web Challenge** da FIAP (2025)
+- 💬 Pode falar comigo sobre IA no desenvolvimento, sistemas de gestão e segurança
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neemiasjls-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neemiasjls)
+
+---
+
 ## Projetos
 
 ### [DevConductor](https://github.com/neemiasjls/devconductor-showcase)
